@@ -1,4 +1,4 @@
----> Hi, I’m a python developer :)
+---> Hi, Just a simple python developer :)
 
 <!---
 rezamousavi99/rezamousavi99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
