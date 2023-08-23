@@ -1,6 +1,4 @@
----> Hi, Just a simple python developer :)
+---> Hi I'm majoing in Computer Engineering and I would love to share my projects in python language :)
+---> I'm interested in Back-End web Development with Django fram wrok and also Data Science in long-term.
 
-<!---
-rezamousavi99/rezamousavi99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---> I hope the repositories are useful and I would be loved to improve my code by contributing on repos
